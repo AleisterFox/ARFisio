@@ -123,15 +123,15 @@
                         </p>
                     </div>
                     <div class="services__container--service">
-                        <img src="images/frame.png" alt="">
-                        <h4>Asesoría Posquirúrgica</h4>
+                        <img src="images/computadora.png" alt="">
+                        <h4>Asesoría Posquirúrgica/Via Remota</h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, ipsa.</p>
                         <p class="service__button">
                             <a href="">Ver más</a>
                         </p>
                     </div>
                     <div class="services__container--service">
-                        <img src="images/frame.png" alt="">
+                        <img src="images/masaje.png" alt="">
                         <h4>Descarga Muscular</h4>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, ipsa.</p>
                         <p class="service__button">

@@ -153,7 +153,7 @@
                             persona, lo que es imprescindible para su preciso diagnóstico.</p> -->
                     </div>
                     <div class=" desc s5 hidden">
-                        <img src="images/frame-1.png" alt="">
+                        <img src="images/computadora.png" alt="">
                         <p>Consiste en una sesion online , con uno de nuestros profesionales expertos en Rehabilitacion Postquirurgica. Donde buscamos evaluar cada caso , y orientar al paciente en su proceso de Rehabilitacion. <br> Duracion de la sesion : 30 min </p>
                         <div class="gallery fadeIn">
                             <div>
@@ -175,7 +175,7 @@
                         </p> -->
                     </div>
                     <div class=" desc s6 hidden">
-                        <img src="images/frame-2.png" alt="">
+                        <img src="images/masaje.png" alt="">
                         <p>Servicio que se realiza a deportistas , antes o despues de tener una actividad fisica importante . Se realiza por un profesional calificado. <br> Pueden aplicarse diferentes tecnicas , como: <br> - Masaje <br> - Presoterapia <br> - Electroterapia <br> - Percusiónl
                             Lesiones musculares (desgarres) <br> - Lesiones ligamentarias ( esguinces )</p>
                         <div class="gallery fadeIn">
