@@ -130,6 +130,60 @@ main {
     margin-top: 10.5rem;
 }
 
+/* floating whatsapp */
+
+.floating {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 2rem;
+    position: fixed;
+    z-index: 10;
+    top: 70vh;
+    right: 2rem;
+    width: fit-content;
+    height: fit-content;
+}
+
+.floating .home__info--button {
+    background-color: #55B9C5;
+    width: 8vw;
+    min-width: fit-content;
+    padding: 1rem;
+}
+
+.floating .home__info--button:hover {
+    background-color: #009cad;
+}
+
+.floating .home__info--button a {
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.whatsapp {
+    width: 5rem;
+    height: 5rem;
+    border-radius: 500px;
+    background-color: #25D366;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4rem;
+}
+
+.whatsapp:hover {
+    background-color: #009c39;
+    cursor: pointer;
+}
+
+.whatsapp a {
+    color: white;
+}
+
+/* floating whatsapp */
+
 /* home section */
 
 #home {
@@ -692,17 +746,22 @@ footer>div:first-child ul li:hover a {
 footer h4 {
     font-size: 2rem;
     margin: 1rem 0;
+    text-align: center;
 }
 
 footer .social {
-    width: 80%;
-    font-size: 2.5rem;
+    width: 100%;
+    font-size: 3.2rem;
     display: flex;
     justify-content: space-between;
 }
 
 footer .social a {
     transition: all 0.3s ease-in-out;
+}
+
+footer .social a:hover {
+    transform: translateY(-1rem);
 }
 
 footer .social a:first-child:hover {
@@ -1154,6 +1213,10 @@ select option {
         display: none;
     }
 
+    .whatsapp {
+        width: 5vw;
+        height: 5vw;
+    }
     .menu {
         display: inherit !important;
         flex-direction: row;
