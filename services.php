@@ -35,7 +35,14 @@
         <section id="services__home">
             <h1 class="fadeInUp wow">Nuestros Servicios</h1>
         </section>
-
+        <div class="floating">
+            <div class="whatsapp">
+                <a href="wa.me/" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+            </div>
+            <p class="home__info--button">
+                <a href="contact.php" target="_blank">Agenda tu cita</a>
+            </p>
+        </div>
         <section id="services__services">
             <div class="container">
                 <ul class="fadeInLeft wow">

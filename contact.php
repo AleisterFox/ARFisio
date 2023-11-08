@@ -96,7 +96,14 @@
                 <button type="submit">Enviar</button>
             </form>
         </section>
-
+        <div class="floating">
+            <div class="whatsapp">
+                <a href="wa.me/" target="_blank"><i class="fa-brands fa-whatsapp"></i></a>
+            </div>
+            <p class="home__info--button">
+                <a href="contact.php" target="_blank">Agenda tu cita</a>
+            </p>
+        </div>
         <section id="locations">
             <div class="fadeInLeft wow">
                 <iframe src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Av.%20de%20los%20bosques%20158%20Col.%20Lomas%20de%20Tecamachalco,%20Huixquilucan%20Estado%20de%20M%C3%A9xico+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe>

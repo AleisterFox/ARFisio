@@ -96,8 +96,7 @@
                     <div class="services__container--service">
                         <img src="images/frame-2.png" alt="">
                         <h4>Fisioterapia post-quirúrgica</h4>
-                        <p>Está enfocado a restaurar la fuerza, la movilidad y la estabilidad de la parte afectada en
-                            nuestro esquema corporal tras una intervención.</p>
+                        <p>Somos una clinica de Alta Especialidad en tratamientos Post-quirurgicos. Contamos con especialistas en el ramo de la Fisioterapia Ortopedica-Traumatologica.</p>
                         <p class="service__button">
                             <a href="">Ver más</a>
                         </p>
@@ -105,9 +104,7 @@
                     <div class="services__container--service">
                         <img src="images/frame-1.png" alt="">
                         <h4>Fisioterapia ortopédica</h4>
-                        <p>Consiste en rehabilitar el sistema musculo esquelético y prevenir su mal funcionamiento, se
-                            distingue por centrarse en lesiones de huesos, articulaciones, tendones, nervios y
-                            ligamentos.</p>
+                        <p>Area especializada en el tratamiento de lesiones neuro-musculo-esqueleticas .</p>
                         <p class="service__button">
                             <a href="">Ver más</a>
                         </p>
@@ -115,8 +112,7 @@
                     <div class="services__container--service">
                         <img src="images/frame.png" alt="">
                         <h4>Fisioterapia Deportiva</h4>
-                        <p>Tiene como objetivo principal tratar las lesiones que se producen en las personas que
-                            realizan alguna actividad física o deportiva.</p>
+                        <p>Área dedicada al tratamiento y prevención de lesiones en el ámbito deportivo; tanto en deportistas amateurs, de elite o profesionales.</p>
                         <p class="service__button">
                             <a href="">Ver más</a>
                         </p>
@@ -124,8 +120,7 @@
                     <div class="services__container--service">
                         <img src="images/frame-3.png" alt="">
                         <h4>Readaptación Deportiva</h4>
-                        <p>Proceso encaminado a preparar a un deportista que ha padecido una lesión, de forma que la
-                            zona lesionada sea capaz de volver a trabajar físicamente de una forma segura y eficiente.
+                        <p>Servicio que proporcionamos a aquellos pacientes , que han tenido una lesion, y desean regresar a practicar su actividad deportiva favorita.
                         </p>
                         <p class="service__button">
                             <a href="">Ver más</a>
@@ -134,7 +129,7 @@
                     <div class="services__container--service">
                         <img src="images/computadora.png" alt="">
                         <h4>Asesoría Posquirúrgica/Via Remota</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, ipsa.</p>
+                        <p>Consiste en una sesion online , con uno de nuestros profesionales expertos en Rehabilitacion Postquirurgica. Donde buscamos evaluar cada caso , y orientar al paciente en su proceso de Rehabilitacion.</p>
                         <p class="service__button">
                             <a href="">Ver más</a>
                         </p>
@@ -142,7 +137,7 @@
                     <div class="services__container--service">
                         <img src="images/masaje.png" alt="">
                         <h4>Descarga Muscular</h4>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, ipsa.</p>
+                        <p>Servicio que se realiza a deportistas , antes o despues de tener una actividad fisica importante . Se realiza por un profesional calificado.</p>
                         <p class="service__button">
                             <a href="">Ver más</a>
                         </p>
