@@ -796,6 +796,52 @@ footer ul {
 
 /* ---- faqs ---- */
 
+#our__team {
+    margin-top: 5rem;
+    /* padding: 0 8rem; */
+}
+
+#our__team h2 {
+    text-align: center;
+    color: var(--main-blue);
+    margin-bottom: 5rem;
+}
+
+#our__team .container {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 2rem;
+    row-gap: 4rem;
+}
+
+#our__team .container .team__member {
+    min-width: 30%;
+    flex-basis: 30rem;
+    flex-grow: 1;
+}
+
+@media screen and (min-width:1500px) {
+    
+}
+
+#our__team .container .team__member figure {
+    /* width: 100%; */
+    aspect-ratio: 1/1;
+    background-color: #009cad;
+}
+
+#our__team .container .team__member h4 {
+    font-size: 2rem;
+    color: var(--secondary-blue);
+}
+
+#our__team .container .team__member p {
+    font-size: 1.5rem;
+    color: rgb(143, 143, 143);
+}
+
 #faqs__home {
     height: 25vh;
     background: url('../images/FAQS.jpg');

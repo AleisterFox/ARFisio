@@ -25,6 +25,9 @@ menuButton.addEventListener('click', () => {
     }
 });
 
+faqs.forEach(fq => {
+    fq.style.height = '7rem';
+});
 
 faqs.forEach(faq => {
     faq.addEventListener('click', () => {

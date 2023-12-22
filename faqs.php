@@ -43,6 +43,54 @@
                 <a href="contact.php" target="_blank">Agenda tu cita</a>
             </p>
         </div>
+        <section id="our__team">
+            <h2>Nuestro Equipo</h2>
+            <div class="container">
+                <div class="team__member fadeInUp wow">
+                    <figure>
+                        <img src="" alt="">
+                    </figure>
+                    <h4>Nombre Completo</h4>
+                    <p>Puesto</p>
+                </div>
+                <div class="team__member fadeInUp wow">
+                    <figure>
+                        <img src="" alt="">
+                    </figure>
+                    <h4>Nombre Completo</h4>
+                    <p>Puesto</p>
+                </div>
+                <div class="team__member fadeInUp wow">
+                    <figure>
+                        <img src="" alt="">
+                    </figure>
+                    <h4>Nombre Completo</h4>
+                    <p>Puesto</p>
+                </div>
+                <div class="team__member fadeInUp wow">
+                    <figure>
+                        <img src="" alt="">
+                    </figure>
+                    <h4>Nombre Completo</h4>
+                    <p>Puesto</p>
+                </div>
+                <div class="team__member fadeInUp wow">
+                    <figure>
+                        <img src="" alt="">
+                    </figure>
+                    <h4>Nombre Completo</h4>
+                    <p>Puesto</p>
+                </div>
+                <div class="team__member fadeInUp wow">
+                    <figure>
+                        <img src="" alt="">
+                    </figure>
+                    <h4>Nombre Completo</h4>
+                    <p>Puesto</p>
+                </div>
+            </div>
+            
+        </section>
         <section id="faqs" class="fadeInUp wow">
             <div class="faq">
                 <h2>Lorem ipsum dolor sit amet.</h2>
