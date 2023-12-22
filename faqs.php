@@ -48,42 +48,42 @@
             <div class="container">
                 <div class="team__member fadeInUp wow">
                     <figure>
-                        <img src="" alt="">
+                        <img src="images/t1.jpg" alt="">
                     </figure>
                     <h4>Nombre Completo</h4>
                     <p>Puesto</p>
                 </div>
                 <div class="team__member fadeInUp wow">
                     <figure>
-                        <img src="" alt="">
+                        <img src="images/t3.jpg" alt="">
                     </figure>
                     <h4>Nombre Completo</h4>
                     <p>Puesto</p>
                 </div>
                 <div class="team__member fadeInUp wow">
                     <figure>
-                        <img src="" alt="">
+                        <img src="images/t2.jpg" alt="">
                     </figure>
                     <h4>Nombre Completo</h4>
                     <p>Puesto</p>
                 </div>
                 <div class="team__member fadeInUp wow">
                     <figure>
-                        <img src="" alt="">
+                        <img src="images/t4.jpg" alt="">
                     </figure>
                     <h4>Nombre Completo</h4>
                     <p>Puesto</p>
                 </div>
                 <div class="team__member fadeInUp wow">
                     <figure>
-                        <img src="" alt="">
+                        <img src="images/t1.jpg" alt="">
                     </figure>
                     <h4>Nombre Completo</h4>
                     <p>Puesto</p>
                 </div>
                 <div class="team__member fadeInUp wow">
                     <figure>
-                        <img src="" alt="">
+                        <img src="images/t3.jpg" alt="">
                     </figure>
                     <h4>Nombre Completo</h4>
                     <p>Puesto</p>
